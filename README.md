@@ -1,0 +1,3 @@
+# Comparative-Air-Quality-Data-Analysis
+
+This project showcases the development of an end-to-end Python-based ETL pipeline for processing PM2.5 data across five cities. The goal is to build and demonstrate a robust system that handles data extraction, transformation, and loading (ETL) while also performing statistical analysis on the processed data. The system includes key steps such as data collection from nested JSON structures, statistical testing (t-test, normality, and variance), and the generation of insightful visualizations. The final output includes interactive Folium maps and line plots that display sensor distribution and PM2.5 concentration changes, providing valuable insights into air quality variations across different urban environments.
